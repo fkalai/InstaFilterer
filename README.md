@@ -3,7 +3,8 @@
 > **InstaFilter App**.
 
 > * Universal target (iPhone/iPad)
-> * Swift 2.0
+> * Swift 3.0
+> * Xcode 8.1
 > * Autolayout
 
 > Made up for Coursera course 2: iOS App Development Basics
