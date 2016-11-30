@@ -8,7 +8,7 @@
 > * Autolayout
 
 #Results
-![MacDown Screenshot](https://github.com/fkalai/InstaFilterer/blob/master/01.png)
+![MacDown Screenshot](https://github.com/fkalai/InstaFilterer/blob/master/01_new.png)
 ![MacDown Screenshot]()
 ![MacDown Screenshot]()
 
