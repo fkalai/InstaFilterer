@@ -85,3 +85,5 @@ It would be nice if we could have a scrolling list of filter buttons. This could
 The Collection View API requires you to supply a layout object to manage the layout of cells in the collection view. Apple supplies a built-in class named UICollectionViewFlowLayout. Use this instead of creating your own custom layout class.
 
 **SUBMISSION**: Make sure all your project files are in a single folder with the main Xcode project file (with the .xcodeproj extension) at the top level. Zip the folder first using the Mac’s compression command. (In Finder, right-click the folder and select “Compress”.) Upload this zipped archive for reviewZip your .playground file and upload it to your submission. Your peer reviewers will download your zipped file and test in their playground.
+
+> Copyright (c) 2016 Fotis Kalaitzidis
