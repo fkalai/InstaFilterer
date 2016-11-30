@@ -1,11 +1,11 @@
 # InstaFilterer
 
-> **InstaFilterer App**.
+InstaFilterer App:
 
-> * Universal target (iPhone/iPad)
-> * Swift 3.0
-> * Xcode 8.1
-> * Autolayout
+  Universal target (iPhone/iPad)
+  Swift 3.0
+  Xcode 8.1
+  Autolayout
 
 App developed for the course **[iOS App Development Basics](https://www.coursera.org/learn/ios-app-development-basics/home/welcome)**, part of the [iOS App Development Specialization on Coursera](https://www.coursera.org/specializations/app-development)
 
