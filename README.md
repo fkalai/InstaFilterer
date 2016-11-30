@@ -1,6 +1,6 @@
-# InstaFilterer
+# InstaFilterer App
 
-**Instagram like app**. 
+**Like an Instagram app**. 
 
 * Universal target (iPhone/iPad)
 * Swift 3.0
